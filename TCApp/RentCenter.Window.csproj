@@ -73,8 +73,8 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <Compile Include="Structures\Rent.cs" />
-    <Compile Include="Structures\Room.cs" />
+    <Compile Include="Rent.cs" />
+    <Compile Include="Room.cs" />
     <Compile Include="Windows\RoomDialog.cs">
       <SubType>Form</SubType>
     </Compile>

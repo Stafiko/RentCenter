@@ -14,5 +14,17 @@
         <elementListCompartment Id="d91d19f9-766b-4dc6-b3f6-0a2ea4bc0c8b" absoluteBounds="2.89, 2.46, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
       </nestedChildShapes>
     </classShape>
+    <classShape Id="a9aed18b-f9ec-4fc3-91cd-4bf670972b34" absoluteBounds="0.5, 1.75, 2, 1.3862939453125">
+      <DataClassMoniker Name="/DBConnectorDataContext/percent_" />
+      <nestedChildShapes>
+        <elementListCompartment Id="229cb5b3-2562-41d2-a581-f871dfec5937" absoluteBounds="0.51500000000000012, 2.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="31cd3580-b2cd-4319-b054-be3e2b241390" absoluteBounds="5.875, 4.75, 2, 2.5401025390625">
+      <DataClassMoniker Name="/DBConnectorDataContext/costs_" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8b487aad-0363-46d0-b072-70393fe1b428" absoluteBounds="5.89, 5.21, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
   </nestedChildShapes>
 </ordesignerObjectsDiagram>
